@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.example.render_springboot_neon.RenderSpringbootNeonApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.68 s -- in com.example.render_springboot_neon.RenderSpringbootNeonApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.867 s -- in com.example.render_springboot_neon.RenderSpringbootNeonApplicationTests

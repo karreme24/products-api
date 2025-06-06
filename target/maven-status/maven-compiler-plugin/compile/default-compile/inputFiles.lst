@@ -1,4 +1,5 @@
 C:\DEV\pruebas-back-end\render-springboot-neon\src\main\java\com\example\render_springboot_neon\controllers\ProductsController.java
+C:\DEV\pruebas-back-end\render-springboot-neon\src\main\java\com\example\render_springboot_neon\corsConfig.java
 C:\DEV\pruebas-back-end\render-springboot-neon\src\main\java\com\example\render_springboot_neon\Dto\ProductDto.java
 C:\DEV\pruebas-back-end\render-springboot-neon\src\main\java\com\example\render_springboot_neon\entity\Product.java
 C:\DEV\pruebas-back-end\render-springboot-neon\src\main\java\com\example\render_springboot_neon\exceptions\notFoudException.java
