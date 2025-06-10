@@ -17,7 +17,7 @@ private ProductService productService;
 
 
 
-    // CCreate Product Endpoint
+    // Create Product Endpoint
         @PostMapping
     public ResponseEntity<ProductDto> createProduct (@RequestBody ProductDto productDto){
         ProductDto saveProduct = productService.createProduct(productDto);

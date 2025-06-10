@@ -1,0 +1,35 @@
+[33mcommit 4465d17cdfe36cc0f8c4ba1f57d14ddd11166f6d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: karreme <karremegeorge@gmail.com>
+Date:   Fri Jun 6 16:34:59 2025 -0600
+
+     target actualizado
+
+[33mcommit 55fb4b4faebf16700aa38a5d97cd1efc8a9fce6f[m
+Author: karreme <karremegeorge@gmail.com>
+Date:   Fri Jun 6 16:09:36 2025 -0600
+
+    solucion a los accesos a los endpoits
+
+[33mcommit 329b8b1fee8cf5151c8ca7a4170272761921c10b[m
+Author: karreme <karremegeorge@gmail.com>
+Date:   Fri Jun 6 15:16:14 2025 -0600
+
+    solucion a problema de versiones
+
+[33mcommit 604d62ba8c0fedea689904f2f6d501e08a621e08[m
+Author: karreme <karremegeorge@gmail.com>
+Date:   Fri Jun 6 15:00:16 2025 -0600
+
+    add target for deploy
+
+[33mcommit 161d901fb941e88fb739e0d28f86cac8e35fb8ed[m
+Author: karreme <karremegeorge@gmail.com>
+Date:   Fri Jun 6 14:58:13 2025 -0600
+
+    redy for deploy
+
+[33mcommit 2ea584f35128a17098ffc459765610d630d6fb1a[m
+Author: karreme <karremegeorge@gmail.com>
+Date:   Fri Jun 6 14:56:57 2025 -0600
+
+    first commit
